@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm 심혁(XXXXXim)</h1>
 <h3 align="center">SSAFY 수료, SKALA에서 AI Agent개발을 배우고 있습니다.</h3>
 
-- 📫 How to reach me **simhyeck08@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
