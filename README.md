@@ -69,7 +69,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=XXXXXim&show_icons=true&locale=kr&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub 통계"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XXXXXim&layout=compact&locale=kr&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="자주 쓰는 언어"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=XXXXXim&layout=compact&hide=jupyter%20notebook,html&locale=kr&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="자주 쓰는 언어"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XXXXXim&theme=tokyonight&hide_border=true&locale=ko" alt="연속 기록"/>
 
